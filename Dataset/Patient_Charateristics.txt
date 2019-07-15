@@ -1,0 +1,326 @@
+ID	Gender	Age	Histology	Grade	Resection	Chemoradiotherapy	Epilepsy therapy
+CGGA_1052	M	41	OA	2	Total resection	No data for chemoradiotherapy	No data
+CGGA_1263	M	51	A	2	No data	Radiotherapy alone	Anti-epileptic
+CGGA_1411	F	41	rA	2	No data	Radiotherapy plus with unknown drug	No data
+CGGA_235	M	25	OA	2	No data	Radiotherapy alone	Anti-epileptic
+CGGA_269	F	45	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_276	M	44	O	2	Total resection	No therapy	Anti-epileptic
+CGGA_323	F	49	O	2	Total resection	No therapy	No therapy
+CGGA_493	F	33	A	2	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_541	F	36	OA	2	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_630	F	30	OA	2	No data	Radiotherapy alone	No therapy
+CGGA_633	F	57	O	2	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_638	M	42	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_659	F	51	O	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_766	M	32	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_796	M	61	A	2	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_807	M	43	A	2	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_871	M	37	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_J030	M	38	rOA	2	No data	Radiotherapy alone	Anti-epileptic
+CGGA_J130	M	40	rA	2	No data	Radiotherapy alone	Anti-epileptic
+CGGA_1005	F	42	A	2	No data	Radiotherapy alone	No therapy
+CGGA_1013	F	40	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_1020	F	39	A	2	Partial resection	Radiotherapy alone	No therapy
+CGGA_1031	F	33	A	2	No data	No therapy	Anti-epileptic
+CGGA_1046	M	23	A	2	No data	Chemotherapy with temozolomide alone	No therapy
+CGGA_1050	M	41	OA	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_1231	F	32	rA	2	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1322	M	10	OA	2	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1330	M	48	A	2	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1374	M	22	rOA	2	No data	Radiotherapy plus with unknown drug	No data
+CGGA_1388	M	38	rA	2	No data	Radiotherapy plus temozolomide	No data
+CGGA_1406	M	34	A	2	No data	No therapy	No therapy
+CGGA_171	F	37	OA	2	Total resection	Chemotherapy with unknown drug alone	No data
+CGGA_236	M	47	O	2	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_241	M	34	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_245	F	39	rA	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_251	M	46	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_252	F	25	A	2	No data	Radiotherapy alone	No therapy
+CGGA_254	M	38	OA	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_256	M	39	A	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_261	M	28	A	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_267	M	37	A	2	Total resection	No therapy	Anti-epileptic
+CGGA_273	F	35	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_283	F	48	O	2	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_300	F	36	A	2	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_333	M	41	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_446	F	35	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_458	M	51	rOA	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_479	F	37	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_485	M	32	O	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_501	M	40	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_502	M	40	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_538	F	43	O	2	Total resection	Chemotherapy with unknown drug alone	No therapy
+CGGA_543	M	43	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_551	M	45	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_580	M	43	OA	2	Total resection	Radiotherapy alone	No data
+CGGA_601	M	36	A	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_607	M	26	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_635	M	45	OA	2	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_641	F	52	O	2	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_642	M	30	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_655	M	36	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_662	F	59	OA	2	Total resection	No therapy	No therapy
+CGGA_666	F	45	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_671	F	37	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_675	F	23	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_685	F	21	A	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_689	F	37	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_694	M	34	rA	2	No data	Radiotherapy plus with other drugs	No data
+CGGA_698	F	62	A	2	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_715	M	44	O	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_725	M	43	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_752	M	40	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_757	M	46	A	2	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_760	F	34	O	2	Total resection	Radiotherapy alone	No therapy
+CGGA_762	F	40	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_785	M	43	O	2	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_812	M	27	O	2	Total resection	Chemotherapy with unknown drug alone	No therapy
+CGGA_815	F	53	OA	2	Total resection	Radiotherapy alone	No data
+CGGA_818	M	46	A	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_834	M	25	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_835	M	31	O	2	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_838	F	36	OA	2	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_843	M	29	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_856	M	54	O	2	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_858	M	43	O	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_864	M	34	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_884	F	48	A	2	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_892	M	35	O	2	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_893	F	37	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_898	M	38	A	2	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_904	M	33	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_905	M	46	A	2	Total resection	Radiotherapy alone	No therapy
+CGGA_908	M	36	A	2	No data	Radiotherapy plus with unknown drug	No data
+CGGA_909	F	40	OA	2	Total resection	No therapy	No therapy
+CGGA_D04	M	37	A	2	Total resection	No therapy	No therapy
+CGGA_D07	M	36	O	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D15	F	38	OA	2	Total resection	Radiotherapy alone	No therapy
+CGGA_D20	F	40	A	2	Total resection	No therapy	Anti-epileptic
+CGGA_D29	M	36	O	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D39	F	25	rA	2	No data	No data for chemoradiotherapy	No data
+CGGA_D40	M	44	rOA	2	No data	No therapy	Anti-epileptic
+CGGA_D47	M	36	OA	2	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_J024	F	29	rA	2	No data	No therapy	No therapy
+CGGA_J042	M	38	rOA	2	No data	No therapy	Anti-epileptic
+CGGA_1004	F	65	A	2	Partial resection	Radiotherapy alone	No therapy
+CGGA_1059	F	54	rA	2	No data	No data for chemoradiotherapy	No therapy
+CGGA_1071	M	42	A	2	Total resection	No data for chemoradiotherapy	No therapy
+CGGA_243	F	31	OA	2	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_738	M	44	A	2	No data	Radiotherapy alone	No therapy
+CGGA_1022	F	64	rAA	3	No data	Chemotherapy with unknown drug alone	No therapy
+CGGA_1034	M	24	AA	3	No data	No data for chemoradiotherapy	No data
+CGGA_1079	M	38	AOA	3	No data	No data for chemoradiotherapy	No data
+CGGA_1081	F	30	rAA	3	No data	Radiotherapy plus temozolomide	No data
+CGGA_1140	F	50	rAA	3	Total resection	Chemotherapy with temozolomide alone	No data
+CGGA_1145	M	42	rAA	3	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_1280	M	75	AA	3	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1281	M	46	AO	3	No data	No data for chemoradiotherapy	Anti-epileptic
+CGGA_1284	M	74	AA	3	Total resection	Chemotherapy with temozolomide alone	No therapy
+CGGA_1292	M	18	AO	3	Total resection	Radiotherapy alone	No data
+CGGA_1340	M	36	AOA	3	No data	No therapy	No therapy
+CGGA_1408	F	65	AOA	3	No data	Radiotherapy plus with unknown drug	No therapy
+CGGA_330	M	46	AOA	3	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_426	M	51	AA	3	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_448	M	65	AOA	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_488	M	24	AOA	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_564	M	48	AA	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_565	M	51	AOA	3	Total resection	Radiotherapy plus with other drugs	No data
+CGGA_578	F	62	AOA	3	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_599	F	67	AOA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_616	M	43	AA	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_643	M	57	AOA	3	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_661	M	42	AA	3	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_678	M	56	rAA	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_727	M	45	AA	3	No data	Radiotherapy plus with unknown drug	No therapy
+CGGA_732	F	35	AA	3	Total resection	Radiotherapy plus no data for chemotherapy	No data
+CGGA_791	M	56	AA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D06	F	46	rAOA	3	No data	No data for chemoradiotherapy	No data
+CGGA_D11	F	53	AOA	3	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_D16	F	59	AOA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D18	M	20	AOA	3	No data	No data for chemoradiotherapy	No data
+CGGA_D44	F	18	AOA	3	Total resection	Radiotherapy alone	No therapy
+CGGA_D58	M	24	rAA	3	Total resection	No therapy	No therapy
+CGGA_1027	M	38	AOA	3	Partial resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1061	F	43	rAOA	3	À©´óÇÐ³ý	No data for radiotherapy plus temozolomide	No data
+CGGA_1094	F	40	rAOA	3	No data	Chemotherapy with temozolomide alone	No data
+CGGA_1113	M	34	AO	3	Partial resection	Chemotherapy with temozolomide alone	No therapy
+CGGA_1146	M	36	AA	3	Total resection	Radiotherapy plus with other drugs	No data
+CGGA_1160	F	43	AOA	3	Total resection	No data for chemoradiotherapy	No data
+CGGA_1189	F	35	AOA	3	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_1190	F	46	AOA	3	Total resection	Chemotherapy with unknown drug alone	No therapy
+CGGA_1215	M	38	rAOA	3	Partial resection	Chemotherapy with temozolomide alone	No data
+CGGA_1307	F	26	AOA	3	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1329	F	44	rAOA	3	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_314	M	39	rAO	3	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_337	F	50	AOA	3	Total resection	No data for chemoradiotherapy	No data
+CGGA_400	F	39	rAA	3	Total resection	Radiotherapy alone	No therapy
+CGGA_431	M	42	rAOA	3	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_490	F	38	AO	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_510	M	42	AO	3	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_560	M	44	AOA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_591	F	34	AOA	3	Total resection	Radiotherapy plus with other drugs	No therapy
+CGGA_598	F	62	AO	3	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_603	M	32	rAA	3	Total resection	Radiotherapy alone	No therapy
+CGGA_605	M	41	rAO	3	No data	Radiotherapy plus with unknown drug	No therapy
+CGGA_704	M	37	rAOA	3	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_D14	M	27	rAOA	3	Total resection	No data for chemoradiotherapy	No data
+CGGA_D21	F	37	AA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D24	F	37	AOA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D27	M	33	rAOA	3	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D33	M	38	rAA	3	No data	No therapy	No therapy
+CGGA_D45	M	28	rAOA	3	No data	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_D46	F	36	rAA	3	Total resection	Chemotherapy with unknown drug alone	No therapy
+CGGA_D48	F	18	rAOA	3	No data	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_D52	M	46	AO	3	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_D56	M	45	rAOA	3	No data	Radiotherapy alone	No therapy
+CGGA_D61	M	40	AO	3	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_J023	M	36	AO	3	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1118	M	31	rAA	3	No data	No therapy	No therapy
+CGGA_1119	M	52	AO	3	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1246	M	54	AO	3	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_247	M	60	AA	3	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_1001	M	12	GBM	4	Total resection	No data for chemoradiotherapy	No data
+CGGA_1006	M	44	GBM	4	Partial resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_1007	F	59	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_1011	F	48	GBM	4	Partial resection	Radiotherapy alone	No data
+CGGA_1015	M	64	GBM	4	Partial resection	Radiotherapy alone	No therapy
+CGGA_1019	M	62	GBM	4	Partial resection	No data for chemoradiotherapy	No data
+CGGA_1023	F	58	GBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1024	M	66	GBM	4	Total resection	No therapy	No therapy
+CGGA_1026	M	59	GBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1035	F	62	GBM	4	No data	Radiotherapy plus with unknown drug	No data
+CGGA_1039	M	42	GBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1045	M	81	GBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1049	M	60	GBM	4	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_1072	M	26	GBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1077	M	47	GBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_1078	F	61	rGBM	4	Total resection	No data for chemoradiotherapy	No data
+CGGA_1083	M	60	GBM	4	Partial resection	Radiotherapy plus temozolomide	No data
+CGGA_1091	F	51	GBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1109	M	42	GBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1124	M	49	rGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1139	F	54	GBM	4	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1171	M	42	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1177	M	42	rGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1180	F	49	GBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1188	F	31	sGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1214	F	50	GBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1216	M	45	GBM	4	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_1218	M	54	sGBM	4	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1224	M	58	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1234	M	33	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1237	M	63	GBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1240	M	34	GBM	4	Total resection	No therapy	No data
+CGGA_1251	F	42	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1258	M	43	GBM	4	No data	No therapy	No therapy
+CGGA_1270	F	61	GBM	4	Total resection	No data for chemoradiotherapy	No data
+CGGA_1271	M	18	sGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1272	M	33	sGBM	4	Total resection	Chemotherapy with temozolomide alone	Anti-epileptic
+CGGA_1283	M	18	sGBM	4	No data	Radiotherapy plus temozolomide	No data
+CGGA_1285	F	59	sGBM	4	No data	No therapy	No therapy
+CGGA_1299	M	54	GBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1301	M	49	rGBM	4	No data	Radiotherapy plus temozolomide	No data
+CGGA_1313	M	43	GBM	4	Total resection	No therapy	No data
+CGGA_1320	M	19	GBM	4	Partial resection	Chemotherapy with temozolomide alone	No therapy
+CGGA_1332	F	55	GBM	4	No data	Chemotherapy with temozolomide alone	No data
+CGGA_1338	F	62	GBM	4	No data	No therapy	No therapy
+CGGA_1342	M	48	GBM	4	Total resection	No therapy	No therapy
+CGGA_1343	M	34	rGBM	4	Partial resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1346	F	58	sGBM	4	No data	Radiotherapy plus with other drugs	No data
+CGGA_1370	M	44	sGBM	4	Total resection	Radiotherapy plus with other drugs	No data
+CGGA_1393	M	42	sGBM	4	No data	Radiotherapy alone	No data
+CGGA_272	M	51	sGBM	4	Total resection	Radiotherapy alone	No data
+CGGA_274	F	55	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_309	M	44	rGBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_318	F	42	rGBM	4	No data	Chemotherapy with unknown drug alone	Anti-epileptic
+CGGA_413	M	54	GBM	4	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_483	F	60	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_494	F	59	GBM	4	Total resection	Radiotherapy plus with other drugs	No data
+CGGA_495	M	54	GBM	4	Total resection	No therapy	No therapy
+CGGA_499	M	52	GBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_525	M	61	GBM	4	Total resection	Radiotherapy alone	No data
+CGGA_604	M	46	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_624	F	49	rGBM	4	No data	No data for chemoradiotherapy	No therapy
+CGGA_658	M	56	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_669	F	56	rGBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_676	M	60	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_679	F	63	GBM	4	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_680	M	44	GBM	4	Total resection	Radiotherapy plus with other drugs	No therapy
+CGGA_681	M	43	rGBM	4	Total resection	No therapy	No therapy
+CGGA_700	F	25	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_731	M	51	rGBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_773	F	50	sGBM	4	No data	Chemotherapy with unknown drug alone	No therapy
+CGGA_782	M	61	GBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_789	M	51	GBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_802	M	43	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_804	F	54	GBM	4	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_808	M	39	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_837	M	57	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_842	F	64	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_848	F	55	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_850	F	52	GBM	4	Total resection	No therapy	No data
+CGGA_859	M	57	GBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_876	F	60	GBM	4	Total resection	No data for chemoradiotherapy	No data
+CGGA_878	M	42	GBM	4	Total resection	Chemotherapy with temozolomide alone	No data
+CGGA_902	M	55	GBM	4	Total resection	No data for chemoradiotherapy	No data
+CGGA_D02	M	44	rGBM	4	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_D03	M	44	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_D09	M	57	GBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_D26	M	55	rGBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_D32	M	61	rGBM	4	No data	Chemotherapy with unknown drug alone	No therapy
+CGGA_D35	F	68	GBM	4	Total resection	Radiotherapy alone	Anti-epileptic
+CGGA_D36	M	58	rGBM	4	Total resection	No therapy	No therapy
+CGGA_D37	M	55	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_D51	F	60	rGBM	4	Total resection	Radiotherapy alone	No therapy
+CGGA_D57	M	40	GBM	4	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_D62	F	49	GBM	4	No data	Radiotherapy plus with unknown drug	No therapy
+CGGA_D64	M	51	sGBM	4	No data	No therapy	No therapy
+CGGA_1060	M	42	rGBM	4	Total resection	Chemotherapy with temozolomide alone	No data
+CGGA_1068	M	29	sGBM	4	No data	No therapy	No therapy
+CGGA_1105	M	29	sGBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1129	M	36	sGBM	4	Total resection	Radiotherapy alone	No data
+CGGA_1136	F	40	sGBM	4	No data	Chemotherapy with unknown drug alone	No data
+CGGA_1170	M	27	sGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1175	F	37	sGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1219	F	58	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_1227	F	47	sGBM	4	No data	Chemotherapy with temozolomide alone	Anti-epileptic
+CGGA_1287	M	30	GBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1314	F	28	GBM	4	Total resection	No therapy	No therapy
+CGGA_1324	M	42	sGBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1375	F	51	sGBM	4	No data	Radiotherapy plus with unknown drug	No data
+CGGA_1381	F	37	rGBM	4	No data	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1384	F	40	GBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1394	M	38	rGBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1409	F	24	GBM	4	No data	No therapy	No therapy
+CGGA_1412	F	49	sGBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_374	M	38	sGBM	4	No data	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_491	F	37	GBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_545	F	39	rGBM	4	Total resection	Radiotherapy plus with unknown drug	No therapy
+CGGA_632	M	30	sGBM	4	No data	Radiotherapy plus temozolomide	No data
+CGGA_710	M	42	GBM	4	Total resection	Chemotherapy with unknown drug alone	No therapy
+CGGA_747	M	29	GBM	4	Total resection	Radiotherapy plus with unknown drug	Anti-epileptic
+CGGA_761	M	45	GBM	4	No data	Radiotherapy alone	No data
+CGGA_822	M	46	sGBM	4	Total resection	Radiotherapy plus with unknown drug	No data
+CGGA_899	M	46	sGBM	4	No data	Chemotherapy with unknown drug alone	No therapy
+CGGA_D34	M	45	sGBM	4	No data	Chemotherapy with unknown drug alone	No therapy
+CGGA_D38	F	41	rGBM	4	Total resection	Radiotherapy alone	No data
+CGGA_D59	F	30	sGBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_D63	M	25	sGBM	4	No data	Radiotherapy alone	No therapy
+CGGA_J100	M	55	rGBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1008	F	56	GBM	4	No data	Radiotherapy plus with unknown drug	No therapy
+CGGA_1053	F	63	GBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1070	M	38	GBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1073	F	42	GBM	4	Total resection	No data for chemoradiotherapy	No data
+CGGA_1074	M	50	GBM	4	No data	No data for chemoradiotherapy	No data
+CGGA_1095	M	29	GBM	4	No data	Radiotherapy plus temozolomide	No therapy
+CGGA_1099	M	8	sGBM	4	Total resection	Chemotherapy with unknown drug alone	No therapy
+CGGA_1114	M	53	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1116	F	43	GBM	4	Total resection	Radiotherapy plus temozolomide	No therapy
+CGGA_1197	M	45	sGBM	4	Total resection	Radiotherapy plus temozolomide	No data
+CGGA_1275	M	71	GBM	4	Total resection	No therapy	No therapy
+CGGA_1450	M	37	sGBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_1460	M	51	sGBM	4	No data	Radiotherapy plus temozolomide	No data
+CGGA_1475	M	38	sGBM	4	No data	Radiotherapy plus no data for chemotherapy	No data
+CGGA_759	M	30	GBM	4	Total resection	Radiotherapy plus temozolomide	Anti-epileptic
+CGGA_D30	M	70	GBM	4	Total resection	Radiotherapy alone	No therapy
