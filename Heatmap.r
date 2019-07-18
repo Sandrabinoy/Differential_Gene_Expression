@@ -14,7 +14,7 @@ d3heatmap(scale(df), colors = "RdYlBu",
 #Change colours
 
 
-#Using the library dendextend
+#Using the library dendextend (for dendograms)
 library(dendextend)
 # order for rows
 Rowv  <- df %>% scale %>% dist %>% hclust %>% as.dendrogram %>%
@@ -25,3 +25,12 @@ Colv  <- df %>% scale %>% t %>% dist %>% hclust %>% as.dendrogram %>%
   set("branches_k_color", k = 2, value = c("orange", "blue")) %>%
   set("branches_lwd", 1.2) %>%
   ladderize
+d2 <- dist(df)
+d3 <- hclust(d2, method = "average")
+dend <- as.dendrogram(d3)
+as.dendrogram
+dend %>% plot  ##Plots the graph
+dend %>% labels ##Prints the labels
+par(mfrow = c(1,1))
+dend %>% set("labels_cex", 0.5) %>% plot(main = "Change label's size") #changes size of the labels 
+
