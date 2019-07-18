@@ -4,8 +4,11 @@ This is only an easier way to perform all the steps required for Differential Ge
 R Script to perform differential gene expression on the acquired samples (365 samples from Glioma patients)-in relation to the paper https://www.nature.com/articles/sdata201724
 
 The datasets along with the R script can be found here: https://doi.org/10.6084/m9.figshare.c.3594560.v1.
-Make sure to download: CGGA_Gene_Expression_Profile_FPKM.txt AND Patient_Characteristics.txt.
-The R script can be downloaded if you would only like to perform Differential Gene Expression.
+Make sure to download two files to perform the differential gene expression: 
+CGGA_Gene_Expression_Profile_FPKM.txt 
+Patient_Characteristics.txt.
+
+Update: The required data can now be downloaded from the data folder that's uploaded. 
 
 
 RNA-seq analysis can be performed on the genes that are retrieved after the differential gene expression.
