@@ -40,3 +40,7 @@ Run the r script (dif_gene.r)
 This creates 3 different files with lists of the differentially expressed genes between grades 2 and 3; 3 and 4; and 2 and 4.
 These 3 files created are in .txt format. I did try to change the format in the scipt to scv instead of txt. But the data is all coagulated and not exactly seperated. They can be opened in Excel (Numbers if you're on MacOS and GNumeric on Linux or any other spreadsheet softwares) and converted to csv.
 The result of what should be obtained in the results folder (Both csv and txt are present in the folder here). The genes present in these files in results can be chosen or arranged or used for any further analysis.
+
+
+
+In case of any queries, feel free to reach out: sandra.binoy@outlook.com
