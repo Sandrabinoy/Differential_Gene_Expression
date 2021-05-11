@@ -41,6 +41,6 @@ This creates 3 different files with lists of the differentially expressed genes 
 These 3 files created are in .txt format. I did try to change the format in the scipt to scv instead of txt. But the data is all coagulated and not exactly seperated. They can be opened in Excel (Numbers if you're on MacOS and GNumeric on Linux or any other spreadsheet softwares) and converted to csv.
 The result of what should be obtained in the results folder (Both csv and txt are present in the folder here). The genes present in these files in results can be chosen or arranged or used for any further analysis.
 
-
+This work has been presented at the International Conference On Computational Vision and Bio Inspired Computing (ICCVBIC 2019) and published in Springer and the conference paper first went live on 07th January, 2020: https://link.springer.com/chapter/10.1007/978-3-030-37218-7_78
 
 In case of any queries, feel free to reach out: sandra.binoy@outlook.com
